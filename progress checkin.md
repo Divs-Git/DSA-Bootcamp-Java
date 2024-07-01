@@ -120,9 +120,9 @@
 >   * * [ ]  Exception Handling
 > * [ ]  Linked List
 >   
->   * * [ ]  Introduction
->   * * [ ]  Singly and Doubly Linked List
->   * * [ ]  Circular Linked List
+>   * * [*]  Introduction
+>   * * [*]  Singly and Doubly Linked List
+>   * * [*]  Circular Linked List
 >   * * [ ]  Fast and slow pointer
 >   * * [ ]  Cycle Detection
 >   * * [ ]  Reversing of LinekdList
